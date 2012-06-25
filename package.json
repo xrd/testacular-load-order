@@ -1,0 +1,9 @@
+{
+  "name": "testacular-load-order",
+  "description": "Test load order of testacular",
+  "author": "Chris Dawson <xrdawson@gmail.com>",
+  "dependencies": {
+    "testacular": "https://github.com/xrd/testacular/tarball/master"
+  },
+  "version": "0.0.1"
+}
