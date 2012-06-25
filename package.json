@@ -3,7 +3,7 @@
   "description": "Test load order of testacular",
   "author": "Chris Dawson <xrdawson@gmail.com>",
   "dependencies": {
-    "testacular": "0.0.14"
+    "testacular": "https://github.com/xrd/testacular/tarball/master"
   },
   "version": "0.0.1"
 }
